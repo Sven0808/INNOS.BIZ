@@ -14,6 +14,7 @@ import { navItems } from "@/data";
 export default function Home() {
   return (
     <main className="w-full bg-black-100 flex justify-center items-center flex-col overflow-clip mx-auto sm:px-10 px-5">
+      Timon
       <FloatingNav
           navItems={navItems} />
       <Intro />
