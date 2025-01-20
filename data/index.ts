@@ -58,7 +58,7 @@ export const navItems = [
       des: "Mystery Message allows users to send and receive anonymous messages, ensuring privacy and fostering honest communication without revealing identities.",
       img: "/p1.png",
       iconLists: ["/next.svg","/re.svg", "/tail.svg", "/ts.svg","/mongo.svg"],
-      link: "github.com/AkashJana18/nextjs-project",
+      link: "github.com/innosbiz",
     },
     {
       id: 3,
@@ -186,16 +186,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-      href: "https://github.com/AkashJana18",
+      href: "https://github.com/innosbiz",
     },
     {
       id: 2,
       img: "/twit.svg",
-      href: "https://x.com/Akashj_01",
+      href: "https://x.com/innosbiz",
     },
     {
       id: 3,
       img: "/link.svg",
-      href: "https://www.linkedin.com/in/akashjana",
+      href: "https://www.linkedin.com/company/innosbiz",
     },
   ];

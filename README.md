@@ -47,8 +47,8 @@ Make sure you have the following installed on your machine:
 
 **Cloning the Repository**
 ```
-git clone https://github.com/AkashJana18/portfolio.git
-cd portfolio
+git clone https://github.com/innosbiz/company-website.git
+cd company-website
 ```
 **Installation**
 
