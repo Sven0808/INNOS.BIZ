@@ -8,20 +8,20 @@ import '../app/star.scss'
 const Hero = () => {
   const words = [
     {
-      text: "We",
+      text: "Welcome",
     },
     {
-      text: "Build",
+      text: "to",
     },
     {
       text: "High-performance",
     },
     {
-      text: "Web",
+      text: "InnoS",
       className: "text-purple dark:text-purple",
     },
     {
-      text: "Applications",
+      text: "Business",
       className: "text-purple dark:text-purple",
     },
   ];
@@ -30,7 +30,6 @@ const Hero = () => {
     <div id="home" className="w-full h-screen relative">
       <div className="">
         <div className="stars absolute z-40 -top-[150px] -right-[150px] w-full h-full">
-         
           <div className="star"></div>
           <div className="star"></div>
           <div className="star"></div>
